@@ -18,5 +18,15 @@ module second_final_shell() {
     04_pill_locker_mid_position(with_offset=false);
 }
 
-first_final_shell();
+module sample() {
+    first_final_shell();
+
+    mirror([0, 0, 1])
+    translate([0,size_y*1.5,-size_z])
+    second_final_shell();
+}
+
+
+//first_final_shell();
 //second_final_shell();
+sample();
