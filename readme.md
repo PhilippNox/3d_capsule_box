@@ -11,3 +11,8 @@
    - Continue to work at a new model in 00_main.scad.
 
 2. Open 00_main.scad and follow the comments.
+
+
+## Check sample model
+👉 [sample_shell_part_1](https://github.com/PhilippNox/3d_capsule_box/blob/main/sample_shell_part_1.stl)  
+👉 [sample_shell_part_2](https://github.com/PhilippNox/3d_capsule_box/blob/main/sample_shell_part_2.stl)  
